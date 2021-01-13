@@ -1,0 +1,19 @@
+{
+  "name": "seigen",
+  "version": "1.0.0",
+  "description": "RateLimit for express",
+  "main": "src/index.js",
+  "typings": "./typings/typing.d.ts",
+  "scripts": {
+    "test": "nodemon test"
+  },
+  "keywords": ["rate-limit", "express"],
+  "author": "Shaynlink",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
